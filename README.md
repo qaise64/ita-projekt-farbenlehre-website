@@ -7,11 +7,13 @@ Das ursprungliche Ziel war eine Praesentation ueber Farbenlehre. Ich habe mich e
 **WICHTIG:** Sie koennen sich das Projekt hier live ansehen:
 **[Live-Demo (geoeffnet mit GitHub Pages)](https://DEIN-BENUTZERNAME.github.io/ita-projekt-farbenlehre-website)**
 
+*(Bitte ersetzen Sie den obigen Link durch Ihren eigenen GitHub Pages Link, nachdem Sie es aktiviert haben.)*
+
 ## Technischer Fokus & Fortschritt
 
 Dieses Projekt war fuer mich ein wichtiger naechster Schritt nach den Grundlagen der ersten Website.
 
-Der technische Fokus lag darauf, meine CSS-Faehigkeiten auf ein professionelleres Niveau zu heben. Ich habe hier zum ersten Mal **SASS (einen CSS-Praeprozessor)** fuer die Organisation der Styles und das **CSS Grid System** fuer das Seitenlayout verwendet.
+Der technische Fokus lag auf dem Erlernen moderner CSS-Techniken. Ich habe hier zum ersten Mal **SASS (einen CSS-Praeprozessor)** fuer die Organisation der Styles und das **CSS Grid System** fuer das Seitenlayout verwendet.
 
 Der SASS-Code ist sauber in Partials aufgeteilt, um die Struktur uebersichtlich zu halten.
 
