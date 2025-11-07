@@ -1,6 +1,6 @@
 # ITA-Projekt: Farbenlehre-Website (mit SASS & Grid)
 
-Hallo! Dies ist mein zweites grosses Web-Projekt aus meiner ITA-Ausbildung (2. Jahr).
+Dies ist mein zweites grosses Web-Projekt aus meiner ITA-Ausbildung (2. Jahr).
 
 Das ursprungliche Ziel war eine Praesentation ueber Farbenlehre. Ich habe mich entschieden, das Thema stattdessen als interaktive Website umzusetzen.
 
