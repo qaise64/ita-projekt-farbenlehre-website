@@ -1,24 +1,29 @@
-# ITA-Projekt: Farbenlehre-Website (mit SASS & Grid)
+# ITA-Projekt: Farbenlehre-Website (SASS & CSS Grid)
 
-Dies ist mein zweites grosses Web-Projekt aus meiner ITA-Ausbildung (2. Jahr).
+Dieses Web-Projekt entstand im zweiten Ausbildungsjahr zum Informationstechnischen Assistenten (ITA).
 
-Das ursprungliche Ziel war eine Praesentation ueber Farbenlehre. Ich habe mich entschieden, das Thema stattdessen als interaktive Website umzusetzen.
+Ausgangspunkt war eine Präsentation zum Thema Farbenlehre, die stattdessen als interaktive Website umgesetzt wurde.
 
-**WICHTIG:** Sie koennen sich das Projekt hier live ansehen:
-**[Live-Demo (geoeffnet mit GitHub Pages)](https://qaise64.github.io/ita-projekt-farbenlehre-website/)**
+## Live-Demo
+
+👉 **[Farbenlehre-Website](https://qaise64.github.io/ita-projekt-farbenlehre-website/)**
 
 ## Technischer Fokus
 
-Dieses Projekt war ein naechster Schritt nach den Grundlagen der ersten Website.
+Der Schwerpunkt dieses Projekts lag auf dem Einsatz moderner CSS-Techniken.
 
-Der technische Fokus lag auf dem Erlernen moderner CSS-Techniken. Ich habe hier zum ersten Mal **SASS (einen CSS-Praeprozessor)** fuer die Organisation der Styles und das **CSS Grid System** fuer das Seitenlayout verwendet.
+Verwendete Technologien:
 
-Der SASS-Code ist in Partials aufgeteilt, um die Struktur uebersichtlich zu halten.
+* HTML
+* SASS
+* CSS Grid
 
-## Projekt-Kontext (Gruppenarbeit)
+Dabei wurde SASS zur Strukturierung und Organisation der Stylesheets eingesetzt. Das Seitenlayout basiert auf dem CSS Grid System.
 
-Obwohl dies offiziell als Gruppenprojekt eingetragen war, habe ich die Konzeption, das Design und die gesamte technische Umsetzung (HTML, SASS, Grid) selbststaendig durchgefuehrt.
+## Projektkontext
+
+Das Projekt war ursprünglich als Gruppenarbeit vorgesehen. Konzeption, Design und technische Umsetzung wurden jedoch eigenständig durchgeführt.
 
 ## Hinweis
 
-Auch bei diesem Projekt lag der Fokus auf der Desktop-Ansicht. Die Seite wurde speziell fuer eine **Aufloesung von 1920 x 1080** entwickelt und ist daher **nicht** fuer mobile Endgeraete optimiert (nicht responsiv).
+Die Website wurde primär für Desktop-Systeme (1920 × 1080) entwickelt und ist nicht für mobile Endgeräte optimiert.
